@@ -1,0 +1,148 @@
+body{ 
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+
+  background-image: url(images/do-stunning-background-videos-for-your-website.png  );
+  background-size:cover;
+  background-repeat:no-repeat ;
+  height: 100%;
+  width: 100%;
+}
+.banner{
+ z-index:2;   
+}
+
+#name{
+  color: blanchedalmond;
+  font-family: "monospace";
+  font-style: italic;
+  text-shadow: 6px 6px black;
+  letter-spacing:6px;
+  margin-top: px;
+  padding: 15px;
+}
+h2{ 
+  color: blanchedalmond;
+  font-size: 35px;
+}
+p{
+  color:blanchedalmond;
+  font-size: 10px;
+  
+}
+.section{
+  background-color: rgb(24, 23, 23);
+  
+}
+.section p{
+  font-size: 18px;
+  font-family: cursive;
+}
+.ab-2{
+  margin-left: 20px;
+  font-family:cursive ;
+  font-size: 20px;
+}
+.ab-1{
+  font-family: cursive;
+  font-size: 20px;
+
+}
+.ab-4{
+  margin-left: 20px;
+  font-family:cursive ;
+  font-size: 20px;
+
+}
+.ab-3{
+  
+  font-family:cursive ;
+  font-size: 20px;
+}
+.btn{
+  padding: 8px;
+  letter-spacing: 3px;
+  font-size: 20px;
+  letter-spacing:3px ;
+  transform: translateX(0);
+  transition: transform 3s;
+  
+
+}
+.btn:hover{
+  transform: translateX(6px);
+  background-color: black;
+}
+#btn-2{
+  margin-left: 17px;
+}
+.ab-6{
+  
+   margin-top: 100px;
+   border: 4px solid brown;
+   
+
+ }
+.demo-4{
+   background-color: black;
+ }
+ .demo-5{
+   background-image: url(images/7fe774bbacce09f00cb5b2e3cbc48db3.png);
+   background-size:cover ;
+   background-repeat: no-repeat;
+   position: relative;
+ }
+.parnt p{
+  font-size: 16px;
+}
+.container .h6{
+  text-align: center;
+  justify-content: center;
+  font-family: cursive;
+  margin-top: 10px;
+  font-size: 18px;
+  
+}
+.demo-7{
+  background-color: rgb(27, 27, 27);
+}
+#ab-8{
+  border: blanchedalmond 2px solid;
+  border-radius: 30px 30px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  position: relative;
+}
+#btn-3{
+  border: brown 1px solid;
+  border-radius: 15px 15px 0px 15px;
+  text-decoration: none;
+  color: blanchedalmond;
+  padding: 10px;
+  margin-bottom: 20px;
+  letter-spacing: 4px;
+  font-size: 16px;
+  
+}
+#btn-3:hover{
+  background-color:brown;
+  transition: 3s;
+}
+.ab-9{
+  
+  padding: 9px;
+margin-top: 30px; 
+  margin-left: 10px;
+  transition: 2s;
+  font-size: 27px;
+}
+.ab-9:hover{
+  background-color: brown;
+  
+}
+.footer{
+  background-color: rgb(41, 40, 40);
+}
